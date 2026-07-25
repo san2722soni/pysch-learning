@@ -1,39 +1,37 @@
-﻿# Psych Learning
+# Psych Learn
 
-Psychology learning platform UI focused on educational content, clean navigation, and student-friendly study flows.
+Psychology learning platform UI focused on educational content, navigation, and student-friendly study flows.
 
-## Overview
+## Why This Project Matters
 
-An education-focused web experience for psychology learning content, designed to present study material in a simple and accessible flow.
+This project is part of my portfolio because it shows practical product engineering: real screens, real workflows, backend/API thinking where relevant, and enough structure to explain design and debugging decisions clearly.
+
+## Highlights
+
+- Learning platform interface
+- Course/content navigation
+- Clean student-focused presentation
+- Good secondary frontend project
 
 ## Tech Stack
 
-React/Next.js, JavaScript/TypeScript, Tailwind CSS, frontend UI
+Next.js, React, Tailwind, educational UI
 
-## Features
+## Demo
 
-- Learning-oriented page structure
-- Clean content presentation
-- Responsive frontend UI
-- Reusable sections for education content
+- Demo video: https://youtu.be/eWCmQCCtYII
 
 ## Run Locally
 
-- Install dependencies with npm install
-- Run locally with npm run dev or the script defined in package.json
+`ash
+npm install
+npm run dev
+`
 
-## Showcase
+Some full-stack projects may also need MongoDB, Redis, or a paired backend/frontend service. Check the project-specific .env.example, backend folder, or existing docs before running production-like flows.
 
-Recommended assets for a stronger portfolio presentation:
+## Portfolio Notes
 
-- Demo video or walkthrough
-- 2-5 screenshots of the main workflow
-- Short architecture/API screenshot where relevant
-
-## Status
-
-Portfolio/learning product showcase.
-
-## Notes
-
-This repository is maintained as part of a developer portfolio. Secrets and local environment values should stay outside Git and be documented through .env.example files when required.
+- Built/maintained by Aswin Anand.
+- Showcase-ready README added for recruiters and project reviewers.
+- Private repositories are intentionally kept private when the project includes client-like code, internal workflows, or local environment assumptions.
